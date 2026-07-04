@@ -1,4 +1,4 @@
-import css from "../cafeInfo/CafeInfo.module.css"
+import css from "../CafeInfo/CafeInfo.module.css"
 
 
 function CafeInfo() {
